@@ -57,5 +57,5 @@ Puedes ver el análisis completo en el archivo [AluraStoreLatam.ipynb](./AluraSt
 
 ## 📬 Contacto
 
-Desarrollado por [Tu Nombre Aquí]  
+Desarrollado por Nathan Elian Nava Castro
 Proyecto realizado como parte del desafío de Data Science de Alura Latam.
